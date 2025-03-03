@@ -1,0 +1,1 @@
+# baseCNN_Croping
